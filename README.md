@@ -165,13 +165,12 @@ The project includes custom DAX calculations for:
 ## 📸 Dashboard Screenshots
 
 ### Overview Dashboard
-![Overview Dashboard](screenshots/overview.png)
-
+![Overview Dashboard](screenshots/overview.PNG)
 ### Deep Dive Dashboard
-![Deep Dive Dashboard](screenshots/deep_dive.png)
+![Deep Dive Dashboard](screenshots/deep_dive.PNG)
 
 ### Data Model View
-![Data Model](screenshots/data_model.png)
+![Data Model](screenshots/data_model.PNG)
 
 ---
 
