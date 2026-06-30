@@ -92,10 +92,10 @@ The project implements a **Star Schema** data modeling approach for optimal quer
 
 ### Relationships
 
-All sales[تاریخ سفارش] ──────► DATES[Miladi]      (Many-to-One)
-All sales[شماره سفارش] ──────► Returns[شماره سفارش] (Many-to-One)
-All sales[شماره سفارش] ──────► Order Type[شماره سفارش] (Many-to-One)
-All sales[گروه کالا] ──────► Target[گروه کالا]     (Many-to-One)
+All sales[تاریخ سفارش] ──────► DATES[Miladi]      (Many-to-One)  
+All sales[شماره سفارش] ──────► Returns[شماره سفارش] (Many-to-One)  
+All sales[شماره سفارش] ──────► Order Type[شماره سفارش] (Many-to-One)  
+All sales[گروه کالا] ──────► Target[گروه کالا]     (Many-to-One)  
 
 ---
 
